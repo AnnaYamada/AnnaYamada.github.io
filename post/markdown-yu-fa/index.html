@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://annayamada.github.io//favicon.ico?v=1603785330098">
+<link rel="shortcut icon" href="https://annayamada.github.io//favicon.ico?v=1603797670510">
 <link rel="stylesheet" href="https://annayamada.github.io//styles/main.css">
 
 
@@ -18,6 +18,7 @@
 
 
 
+    <script src="../../media/sakura/sakura.js"></script>
     <meta name="description" content="一、标题
 示例：
 # 这是一级标题
@@ -43,7 +44,7 @@
   <div class="top-container" data-aos="fade-right">
     <div class="top-header-container">
       <a class="site-title-container" href="https://annayamada.github.io/">
-        <img src="https://annayamada.github.io//images/avatar.png?v=1603785330098" class="site-logo">
+        <img src="https://annayamada.github.io//images/avatar.png?v=1603797670510" class="site-logo">
         <h1 class="site-title">Anna yamada</h1>
       </a>
       <div class="menu-btn" @click="menuVisible = !menuVisible">
@@ -118,6 +119,37 @@
     <div class="site-footer">
       Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://annayamada.github.io//atom.xml" target="_blank">RSS</a>
     </div>
+    <div>
+      <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+      <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+    </div>
+
+    <div>
+
+      <p>该站运行时长: <span id=span_dt_dt style="color: #FFFFFF;"></span></p>
+      <script language=javascript>
+          function show_date_time(){
+              window.setTimeout("show_date_time()", 1000);
+              BirthDay=new Date("10/26/2020 16:15:45");
+              today=new Date();
+              timeold=(today.getTime()-BirthDay.getTime());
+              sectimeold=timeold/1000
+              secondsold=Math.floor(sectimeold);
+              msPerDay=24*60*60*1000
+              e_daysold=timeold/msPerDay
+              daysold=Math.floor(e_daysold);
+              e_hrsold=(e_daysold-daysold)*24;
+              hrsold=Math.floor(e_hrsold);
+              e_minsold=(e_hrsold-hrsold)*60;
+              minsold=Math.floor((e_hrsold-hrsold)*60);
+              seconds=Math.floor((e_minsold-minsold)*60);
+              span_dt_dt.innerHTML='<font style=color:#FFFF00>'+daysold+'</font> 天 <font style=color:#FFFF00>'+hrsold+'</font> 时 <font style=color:#FFFF00>'+minsold+'</font> 分 <font style=color:#FFFF00>'+seconds+'</font> 秒';
+          }
+          show_date_time();
+      </script>
+      
+    </div>
+    
   </div>
 </div>
 
