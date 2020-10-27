@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://annayamada.github.io/</id>
     <title>Anna yamada</title>
-    <updated>2020-10-26T09:48:32.814Z</updated>
+    <updated>2020-10-27T03:48:23.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://annayamada.github.io/"/>
     <link rel="self" href="https://annayamada.github.io/atom.xml"/>
@@ -11,35 +11,145 @@
     <icon>https://annayamada.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Anna yamada</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <title type="html"><![CDATA[你好~]]></title>
         <id>https://annayamada.github.io/post/hello-gridea/</id>
         <link href="https://annayamada.github.io/post/hello-gridea/">
         </link>
         <updated>2020-12-25T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <content type="html"><![CDATA[<p>很高兴认识大家，这是我的第一篇BLOG。</p>
+<p>该站是使用Gridea搭建起来的，很感谢<a href="https://gridea.dev/">Gridea</a>以及Bilibili上的教程。Gridea的容易上手的特点让我这样的小白也能搭建出像样的站点。😄</p>
+<p>简单地自我介绍😃<br>
+<strong>昵称</strong>：suzuko (通常都用这个，因为第一个推的是人气声优三森すずこ mimori suzuko)<br>
+<strong>爱好</strong>：🤣<br>
+<strong>推し</strong>：滨边美波、山田杏奈。美少女都喜欢，是个dd🤣</p>
+<p>markdown用的还不是很熟练，还是要多写BLOG，多多练习呀<br>
+今后还请大家多多关照~~~</p>
+<hr>
+<p>美波美图<br>
+<img src="https://raw.githubusercontent.com/AnnaYamada/ImageStorage/main/HamabeMinami/tumblr_p041c6wJGb1rlk3g8o7_1280.jpg" alt="blockchain" title="滨边美波" loading="lazy"></p>
+<p>杏奈美图<br>
+<img src="https://raw.githubusercontent.com/AnnaYamada/ImageStorage/main/YamadaAnna/anna-yamada--05948094.jpg" alt="blockchain" title="山田杏奈" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Markdown语法]]></title>
+        <id>https://annayamada.github.io/post/markdown-yu-fa/</id>
+        <link href="https://annayamada.github.io/post/markdown-yu-fa/">
+        </link>
+        <updated>2020-10-27T02:56:57.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="一-标题">一、标题</h1>
+<p>示例：</p>
+<pre><code># 这是一级标题
+## 这是二级标题
+### 这是三级标题
+#### 这是四级标题
+</code></pre>
+<h1 id="这是一级标题">这是一级标题</h1>
+<h2 id="这是二级标题">这是二级标题</h2>
+<h3 id="这是三级标题">这是三级标题</h3>
+<h4 id="这是四级标题">这是四级标题</h4>
+<h1 id="二-字体">二、字体</h1>
+<p><strong>加粗</strong><br>
+要加粗的文字左右分别用两个*号包起来</p>
+<p><strong>斜体</strong><br>
+要倾斜的文字左右分别用一个*号包起来</p>
+<p><strong>斜体加粗</strong><br>
+要倾斜和加粗的文字左右分别用三个*号包起来</p>
+<p><strong>删除线</strong><br>
+要加删除线的文字左右分别用两个~~号包起来</p>
+<p>示例：</p>
+<pre><code>**这是加粗的文字**
+*这是倾斜的文字*
+***这是斜体加粗的文字***
+~~这是加删除线的文字~~
+</code></pre>
+<p><strong>这是加粗的文字</strong><br>
+<em>这是倾斜的文字</em><br>
+<em><strong>这是斜体加粗的文字</strong></em><br>
+<s>这是加删除线的文字</s></p>
+<h1 id="三-引用">三、引用</h1>
+<p>在引用的文字前加&gt;即可。引用也可以嵌套，如加两个&gt;&gt;三个&gt;&gt;&gt;<br>
+n个...</p>
+<pre><code>&gt;这是引用的内容
+&gt;&gt;这是引用的内容
+</code></pre>
+<blockquote>
+<p>这是引用的内容</p>
+<blockquote>
+<p>这是引用的内容</p>
+</blockquote>
+</blockquote>
+<h1 id="四-分割线">四、分割线</h1>
+<p>三个或者三个以上的 - 或者 * 都可以。</p>
+<p>示例：</p>
+<pre><code>---
+----
+***
+*****
+</code></pre>
+<p>效果如下：</p>
+<hr>
+<hr>
+<hr>
+<hr>
+<h1 id="五-图片">五、图片</h1>
+<pre><code>语法：
+![图片alt](图片地址 ''图片title'')
+
+图片alt就是显示在图片下面的文字，相当于对图片内容的解释。
+图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加
+</code></pre>
+<p>示例：</p>
+<pre><code>![blockchain](https://github.com/AnnaYamada/HamabeMinami/blob/master/35.jpg &quot;滨边美波&quot;)
+</code></pre>
+<p>效果<br>
+<img src="https://raw.githubusercontent.com/AnnaYamada/HamabeMinami/master/35.jpg" alt="blockchain" title="滨边美波" loading="lazy"></p>
+<h1 id="六-超链接">六、超链接</h1>
+<p>语法：</p>
+<pre><code>[超链接名](超链接地址 &quot;超链接title&quot;)
+title可加可不加
+</code></pre>
+<p>示例：</p>
+<pre><code>[github](http://github.com)
+[百度](http://baidu.com)
+</code></pre>
+<p>效果如下：<br>
+<a href="http://github.com">github</a><br>
+<a href="http://baidu.com">百度</a></p>
+<h1 id="七-代码">七、代码</h1>
+<p>语法：<br>
+单行代码：代码之间分别用一个反引号包起来</p>
+<pre><code>`代码内容`
+</code></pre>
+<p>代码块：代码之间分别用三个反引号包起来，且两边的反引号单独占一行</p>
+<pre><code>(```)
+  代码...
+  代码...
+  代码...
+(```)
+为了防止转译，前后三个反引号处加了小括号，实际是没有的。这里只是用来演示，实际中去掉两边小括号即可。
+</code></pre>
+<p>示例：</p>
+<p>单行代码</p>
+<pre><code>`create database hero;`
+</code></pre>
+<p>代码块</p>
+<pre><code>(```)
+    function fun(){
+         echo &quot;这是一句非常牛逼的代码&quot;;
+    }
+    fun();
+(```)
+</code></pre>
+<p>效果如下：</p>
+<p>单行代码<br>
+<code>create database hero;</code></p>
+<p>代码块</p>
+<pre><code>    function fun(){
+         echo &quot;这是一句代码&quot;;
+    }
+    fun();
+</code></pre>
 ]]></content>
     </entry>
 </feed>
