@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://annayamada.github.io/</id>
     <title>Anna yamada</title>
-    <updated>2020-10-28T03:59:58.067Z</updated>
+    <updated>2020-10-28T06:57:26.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://annayamada.github.io/"/>
     <link rel="self" href="https://annayamada.github.io/atom.xml"/>
@@ -12,15 +12,15 @@
     <rights>All rights reserved 2020, Anna yamada</rights>
     <entry>
         <title type="html"><![CDATA[你好~]]></title>
-        <id>https://annayamada.github.io/post/hello-gridea/</id>
-        <link href="https://annayamada.github.io/post/hello-gridea/">
+        <id>https://annayamada.github.io/post/hello/</id>
+        <link href="https://annayamada.github.io/post/hello/">
         </link>
         <updated>2020-12-25T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>很高兴认识大家，这是我的第一篇BLOG。</p>
-<p>该站是使用Gridea搭建起来的，很感谢<a href="https://gridea.dev/">Gridea</a>以及Bilibili上的教程。Gridea的容易上手的特点让我这样的小白也能搭建出像样的站点。😄</p>
+<p>该站是使用Gridea搭建起来的，很感谢<a href="https://gridea.dev/">Gridea</a>以及Bilibili上的教程。Gridea的容易上手让我这样的小白也能轻松搭建出像样的站点。😄</p>
 <p>简单地自我介绍😃<br>
 <strong>昵称</strong>：suzuko (通常都用这个，因为第一个推的是人气声优三森すずこ mimori suzuko)<br>
-<strong>爱好</strong>：🤣<br>
+<strong>爱好</strong>：🏊‍♀🏓🏸<br>
 <strong>推し</strong>：滨边美波、山田杏奈。美少女都喜欢，是个dd🤣</p>
 <p>markdown用的还不是很熟练，还是要多写BLOG，多多练习呀<br>
 今后还请大家多多关照~~~</p>
